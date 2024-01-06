@@ -6,7 +6,8 @@ header {
   }
   
   body {
-    background-image: url(img3.webp);
+    /* background-image: url(img3.webp); */
+    background-color: aqua;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment:fixed ;
